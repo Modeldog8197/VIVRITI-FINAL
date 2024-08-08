@@ -1,1 +1,1 @@
-<a href="index.html">LINK TO SITE</a>
+<a href="https://modeldog8197.github.io/VIVRITI-FINAL/">LINK TO SITE</a>
